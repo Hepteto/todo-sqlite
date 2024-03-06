@@ -262,7 +262,7 @@ router.delete('/:id', async (req, res) => {
 });
 ```
 
-### 6.5. Exportar
+### 6.6. Exportar
 - [x] Exportar o arquivo das rotas
 ```js
 module.exports = router;
