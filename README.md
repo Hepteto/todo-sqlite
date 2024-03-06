@@ -3,7 +3,7 @@ Descrição... API - Back-End
 
 ## 1. Criando:
 **No terminal:**
-- [x] Inicializando o projeto (criar o package. json): `npx create-expo-app todolist`
+- [x] Inicializando o projeto (criar o package. json): `npm init -y`
 - [x] Baixar framework: `npm i express​`
 - [x] Mudar e reiniciar o projeto automaticamente: `npm i nodemon`
 - [x] Baixar o banco de dados: `npm i --save react-native-sqlite-storage`
